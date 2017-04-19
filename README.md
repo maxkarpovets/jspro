@@ -1,7 +1,8 @@
 # JavaScript Professional Course
 
-### №1
-
+### №1 
+Перепишіть даний код на ES6
+`
 var elements = [
   "Hydrogen",
   "Helium",
@@ -12,7 +13,7 @@ var elements = [
 var elements2 = elements.map(function(s){ return s.length });
 var elements3 = elements.map(function(s){ return s.toUpperCase() });
 var elements4 = elements.map(function(s){ return s.toLowerCase() });
-
+`
 
 ### №2
 
